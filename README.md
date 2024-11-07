@@ -111,9 +111,9 @@ plt.show()
 ## Output:
 # Training Loss, Validation Loss Vs Iteration Plot:
 ![Screenshot 2024-11-07 212132](https://github.com/user-attachments/assets/24e30718-7b49-4093-8b07-09cd2e8f7093)
-![Screenshot 2024-11-07 212146](https://github.com/
+![Screenshot 2024-11-07 212146](https://github.com/user-attachments/assets/fe236ea9-b8c9-4d39-a28e-66f69386d6bc)
 ![Screenshot 2024-11-07 212159](https://github.com/user-attachments/assets/ce27e64f-88b5-41ee-9147-a8af3a8c9e11)
-user-attachments/assets/fe236ea9-b8c9-4d39-a28e-66f69386d6bc)
+
 
 # Classification Report:
 ![Screenshot 2024-11-07 212211](https://github.com/user-attachments/assets/6336ae96-02fa-4667-94ca-760109fae5f4)
